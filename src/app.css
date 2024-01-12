@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+ 
+h1, h2, h3, .poppins{
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
